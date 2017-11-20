@@ -2,7 +2,11 @@ This is an example of coloring the wonum field and description field in Maximo's
 
 You can color the text of a field by using a condition. When the condition is true, you can have the Property Values be active.
 
+![wonum & description with red color](1_wonum_colored.png)
+
 For example, a Property name of `cssclass` and value of `txtred` will color all text for that attribute red.
+
+![application designer](2_txtred.png)
 
 To activate, you need to go to Application Designer and right-click Properties on the attribute you want to edit.
 
